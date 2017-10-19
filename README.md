@@ -13,9 +13,6 @@ vue2+vue-router+webpack+vuex+sass+svg构图+es6/7
 
 [项目演示请点击这里](http://cangdu.org:8003/dialogue) （请用chrome手机模式预览）
 
-### 后台代码在这里
-[后台代码](https://github.com/bailicangdu/node-weixin)
-
 
 
 # 项目布局
